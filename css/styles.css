@@ -213,14 +213,15 @@ p{
 
 /* Education Session */
 #education{
-    padding: 3% 0;
+    padding: 4% 5%; 
     text-align: center;
     background-color: #FF9843;
     color: #fff; 
 }
 
 .edu-row{
-    padding: 2% 6%;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 .edu-col{
@@ -252,13 +253,13 @@ p{
     color: #FF9843;
 }
 
-.address-icon, .rocket-icon{
+.rocket-icon{
     color: #FF9843;
 }
 
 /* Footer Session  */
 #footer{
-    padding: 1% 0;
+    padding: 2% 5%;
     text-align: center;
     background-color:  #FF9843;
 }
@@ -269,6 +270,8 @@ p{
 }
 
 .footer-text{
+    font-size: 2rem;
+    line-height: 1;
     color: #fff;
 }
 
