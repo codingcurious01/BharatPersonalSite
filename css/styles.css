@@ -182,7 +182,7 @@ p{
 }
 
 /* Course Session */
-#course{
+#certification{
     padding: 5% 7%;
     text-align: center;
 }
@@ -201,7 +201,7 @@ p{
 
 .down-bit{
     position: absolute;
-    top: 25%;
+    top: 10%;
 }
 
 @media(max-width: 1400px){
